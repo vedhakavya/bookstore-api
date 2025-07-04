@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1720173702467",
+    "email": "test@example.com",
+    "password": "$2a$10$yzyK3X...hashedPassword"
+  },
+  {
+    "email": "test1@example.com",
+    "password": "$2b$10$irFzr78t/OxfctV3LR6IiOHYvfpVdJZqQ1P/zZK6HNbgv6tKoMx4a"
+  }
+]
