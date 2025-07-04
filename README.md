@@ -46,5 +46,10 @@ Returns:
 ✅ Get Books (With Token)
 "Authorization: Bearer your-token" http://localhost:3000/books
 
+Optional: Swagger Docs
+If implemented, open:
+http://localhost:3000/api-docs
+
+
 
 Made by Vedha Kavya
